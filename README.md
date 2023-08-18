@@ -26,3 +26,9 @@
 
 ## BTW Whose Favorite Topic is That? 🤔🤔
 
+**Technologies**
+Frontend: HTML, CSS, Javascript, Bootstrap
+APIs: https://newsapi.org/
+
+**Contributing**
+Contributions are welcome! If you find bugs or have suggestions for improvements, please open an issue or submit a pull request.
