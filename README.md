@@ -2,18 +2,27 @@
 
 **NewsApp** is a modern and user-friendly news aggregator application that provides the latest news from various reliable sources. Stay informed and up-to-date with the latest happenings around the world.
 
-Home Page
-<img width="931" alt="image" src="https://github.com/Prateeksha3011/NewsApp/assets/141141608/20a8cdb5-5913-4bfc-9593-ef05ba46f646">
+## Features
 
-User Can View news according to category
+- **Latest News:** Access the most recent news articles from various reliable sources.
+- **User-Friendly Interface:** Enjoy a modern design for easy navigation.
+- **Category View:** Explore news by category to focus on what interests you.
+- **Custom Search:** Search for articles on your favorite topics with ease.
 
-<img width="934" alt="image" src="https://github.com/Prateeksha3011/NewsApp/assets/141141608/3848841f-7034-4347-b635-fc622eb8f21e">
+## Screenshots
 
-User Can Search for their Favorite topics 🔥🔥🔥 
+### Home Page
 
-<img width="946" alt="image" src="https://github.com/Prateeksha3011/NewsApp/assets/141141608/49424282-67d8-4db6-972a-7f1156f0a399">
+![Home Page](https://github.com/Prateeksha3011/NewsApp/assets/141141608/20a8cdb5-5913-4bfc-9593-ef05ba46f646.png)
 
-<img width="946" alt="image" src="https://github.com/Prateeksha3011/NewsApp/assets/141141608/7c5133ea-c801-405e-8ee4-2e3c116f0442">
+### Category View
 
-## BTW Whose Fav Topic is that 🤔🤔 
+![Category View](https://github.com/Prateeksha3011/NewsApp/assets/141141608/3848841f-7034-4347-b635-fc622eb8f21e.png)
+
+### Custom Search
+
+![Custom Search](https://github.com/Prateeksha3011/NewsApp/assets/141141608/49424282-67d8-4db6-972a-7f1156f0a399.png)
+![Custom Search](https://github.com/Prateeksha3011/NewsApp/assets/141141608/7c5133ea-c801-405e-8ee4-2e3c116f0442.png)
+
+## BTW Whose Favorite Topic is That? 🤔🤔
 
